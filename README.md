@@ -29,3 +29,4 @@
 ## Assíncrona
 
 - RabbitMQ
+- Kafka
