@@ -27,3 +27,5 @@
 - gRPC
 
 ## Assíncrona
+
+- RabbitMQ
