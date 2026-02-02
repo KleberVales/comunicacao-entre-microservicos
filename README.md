@@ -22,7 +22,7 @@
 
 ## Síncrona
 
-- REST
+- [REST](https://github.com/KleberVales/comunicacao-entre-microservicos/wiki/01-REST)
 - GraphQL
 - gRPC
 
