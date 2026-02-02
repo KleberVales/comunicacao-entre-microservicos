@@ -23,3 +23,4 @@
 ## Síncrona
 
 - REST
+- GraphQL
