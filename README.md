@@ -25,3 +25,5 @@
 - REST
 - GraphQL
 - gRPC
+
+## Assíncrona
