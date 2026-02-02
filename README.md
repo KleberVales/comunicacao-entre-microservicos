@@ -19,3 +19,7 @@
          ├─ Webhooks
          └─ Callbacks
 ```
+
+## Síncrona
+
+- REST
