@@ -30,4 +30,4 @@
 
 - RabbitMQ
 - Kafka
-- Kafka
+- SQS
