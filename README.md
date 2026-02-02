@@ -1,7 +1,9 @@
 # comunicacao-entre-microservicos
 
+### Comunicação entre microserviços
+
 ```css
-Comunicação entre microserviços
+
  ├─ Síncrona
  │   ├─ REST
  │   ├─ GraphQL
