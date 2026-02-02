@@ -2,6 +2,8 @@
 
 <p align="justify">Comunicação entre microserviços é o conjunto de mecanismos e padrões usados para que diferentes microserviços de uma aplicação troquem informações e colaborem entre si. Como cada microserviço é independente e especializado em uma função (ex.: autenticação, pagamentos, pedidos), eles precisam se comunicar para que o sistema funcione de forma integrada.</p>
 
+
+
 ```css
 
  ├─ Síncrona
