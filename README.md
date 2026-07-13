@@ -1,8 +1,6 @@
-# Comunicação entre microserviços
+# Communication between microservices
 
-<p align="justify">Comunicação entre microserviços é o conjunto de mecanismos e padrões usados para que diferentes microserviços de uma aplicação troquem informações e colaborem entre si. Como cada microserviço é independente e especializado em uma função (ex.: autenticação, pagamentos, pedidos), eles precisam se comunicar para que o sistema funcione de forma integrada.</p>
-
-
+<p align="justify">Communication between microservices is the set of mechanisms and standards used for different microservices of an application to exchange information and collaborate with each other. Since each microservice is independent and specialized in a function (e.g., authentication, payments, orders), they need to communicate for the system to function in an integrated way.</p>
 
 ```css
 
