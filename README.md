@@ -38,8 +38,6 @@
 
 Email: klebervales.dev@gmail.com
 
-Redes: 
-
 **Kleber Vales**
 
 Java & Spring Software Engineer
