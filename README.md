@@ -38,7 +38,7 @@
 
 Email: klebervales.dev@gmail.com
 
-Redes: [LinkedIn](https://www.linkedin.com/in/klebervales) | 
+Redes: 
 
 **Kleber Vales**
 
